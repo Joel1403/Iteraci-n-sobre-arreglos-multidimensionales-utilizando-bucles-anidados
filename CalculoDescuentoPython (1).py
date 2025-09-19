@@ -1,10 +1,6 @@
-# CalculoDescuentoPython.py
 # Programa para calcular el descuento en compras
-# Autor: [Tu Nombre]
-# Fecha: [Coloca la fecha de entrega]
-# Descripción:
-# Este programa utiliza una función para calcular el descuento en base
-# al monto total de la compra y un porcentaje de descuento (por defecto 10%).
+# Autor: Joel Vicente Bulgarin Cusme
+# Fecha: 19/09
 
 def calcular_descuento(monto_total, porcentaje_descuento=10):
     """
